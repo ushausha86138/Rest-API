@@ -34,9 +34,4 @@ public class Tutorial {
 	public String toString() {
 		return "Tutorial [id=" + id + ", categoryCode=" + categoryCode + ", value=" + value + "]";
 	}
-	
-	
-	
-	
-
 }
