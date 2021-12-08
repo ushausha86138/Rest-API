@@ -26,5 +26,4 @@ public class CourseController {
 	    	return tutorialData;
 	    }
 	  }
-
 }
